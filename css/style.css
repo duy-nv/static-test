@@ -1,5 +1,11 @@
 @import "reset.css";
 
+html,
+body {
+  font-family: "Rubik_Scribble";
+}
+
 body {
   background-color: #999;
+  font-size: 50px;
 }
